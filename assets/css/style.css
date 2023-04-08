@@ -36,12 +36,12 @@ body::before {
 }
 
 a {
-  color: #07dd6b;
+  color: #ff0000;
   text-decoration: none;
 }
 
 a:hover {
-  color: #35e888;
+  color: #ff0000;
   text-decoration: none;
 }
 
@@ -757,7 +757,7 @@ section .container {
 }
 
 .services .icon-box:hover .icon::before {
-  background: #35e888;
+  background: #ff0000;
 }
 
 .services .icon-box:hover h4 a,
